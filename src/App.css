@@ -1,0 +1,15 @@
+.container {
+    width: 100vw;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    flex: 1;
+    flex-direction: space-between;
+    justify-content: center;
+    align-items: center;
+}
+.block {
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
